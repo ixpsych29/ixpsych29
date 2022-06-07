@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" height="270" width="1600" src="animation-software-header-wide.gif">
+<img align="center" alt="Coding" height="200" width="1600" src="animation-software-header-wide.gif">
 <img align="right" alt="Coding" width="350" src="thoughtworks-gif_dribbble.gif">
 ### Hi there 👋
 
