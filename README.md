@@ -1,5 +1,5 @@
-
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+<img align="center" alt="Coding" height="270" width="1600" src="animation-software-header-wide.gif">
+<img align="right" alt="Coding" width="350" src="thoughtworks-gif_dribbble.gif">
 ### Hi there 👋
 
 I'm Muhammad Abdullah. I'm a current Software Engineering undergraduate student looking for an opportunity to put my skills to good use and make a difference. My experience covers web development and full-stack web development in Java, JavaScript, HTML, CSS, and Angular Js.
