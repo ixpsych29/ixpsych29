@@ -1,8 +1,12 @@
 <!-- <img align="center" alt="Coding" height="200" width="1600" src="animation-software-header-wide.gif"> -->
-<img align="right" alt="Coding" width="350" src="thoughtworks-gif_dribbble.gif">
-### Hi there 👋
+<h1 align="center">Hello 👋 , I'm Abdullah Bin Rafique <img src="thoughtworks-gif_dribbble.gif" width="65px"></h1>
 
-I'm Muhammad Abdullah. I'm a current Software Engineering undergraduate student looking for an opportunity to put my skills to good use and make a difference. My experience covers web development and full-stack web development in Java, JavaScript, HTML, CSS, and Angular Js.
+<h3 align="center"> Passionate Software Engineer and MEAN & MERN Enthusiastic.</h3><br>
+<!-- <img align="right" alt="Coding" width="350" src="thoughtworks-gif_dribbble.gif"> -->
+
+<div align="center" width="100%">
+
+I'm a current Software Engineering undergraduate student looking for an opportunity to put my skills to good use and make a difference. My experience covers web development and full-stack web development in Java, JavaScript, HTML, CSS, and Angular Js.
 I'm learning the Mean/Mern stack in order to advance my skills in the field of cutting-edge technology. I'm always looking for new ways to improve myself.  I'm here to do Full-Stack Web development for you on your business. 
 
 [![Linkedin Badge](https://img.shields.io/badge/Abdullah-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/iamabdullahrafique/)
