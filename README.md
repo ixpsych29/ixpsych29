@@ -1,5 +1,5 @@
 <!-- <img align="center" alt="Coding" height="200" width="1600" src="animation-software-header-wide.gif"> -->
-<h1 align="center">Hello 👋 , I'm Abdullah Bin Rafique <img src="thoughtworks-gif_dribbble.gif" width="100"></h1>
+<h1 align="center">Hello 👋 , I'm Abdullah Bin Rafique <img src="thoughtworks-gif_dribbble.gif" width="200"></h1>
 
 <h3 align="center"> Passionate Software Engineer and MEAN & MERN Enthusiastic.</h3><br>
 <!-- <img align="right" alt="Coding" width="350" src="thoughtworks-gif_dribbble.gif"> -->
