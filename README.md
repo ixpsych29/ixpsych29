@@ -70,12 +70,12 @@ I'm learning the MERN stack in order to advance my skills in the field of cuttin
 -->
 
 <br/>
-<div align="center">
+<p align="center">
 	<a href="https://github.com/iamabdullahrafique">
-		<img width="50%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamabdullahrafique&layout=compact&langs_count=8&theme=algolia"/>
+		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamabdullahrafique&layout=compact&langs_count=8&theme=algolia"/>
 	</a>
 	<img width="60%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iamabdullahrafique&show_icons=true&locale=en&layout=demo&theme=algolia" />
-</div>
+</p>
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamabdullahrafique&theme=chartreuse-dark&hide_border=true" " alt="iamabdullahrafique"/></p> -->
 
