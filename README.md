@@ -76,7 +76,7 @@ I'm learning the MERN stack in order to advance my skills in the field of cuttin
 	</a>
 	<img width="60%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iamhuraira&show_icons=true&locale=en&layout=demo&theme=algolia" />
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamabdullahrafique&theme=chartreuse-dark&hide_border=true" " alt="iamabdullahrafique"/></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamabdullahrafique&theme=chartreuse-dark&hide_border=true" " alt="iamabdullahrafique"/></p> -->
 
 
 <!-- 
