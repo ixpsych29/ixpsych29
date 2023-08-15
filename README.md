@@ -86,8 +86,6 @@ I'm learning the MERN stack in order to advance my skills in the field of cuttin
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamhuraira)](https://github.com/iamhuraira/github-readme-stats) -->
 
 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-
 
 ## Contribution Graph
 ![Contribution Graph](./profile-3d-contrib/profile-gitblock.svg)
