@@ -1,5 +1,5 @@
 <!-- <img align="center" alt="Coding" height="200" width="1600" src="animation-software-header-wide.gif"> -->
-<h1 align="center">Hello 👋 , I'm Abdullah Bin Rafique &nbsp; &nbsp; &nbsp; <img src="thoughtworks-gif_dribbble.gif" width="200"></h1>
+<h1 align="center">Hello 👋 , I'm Abdullah Ibn Rafique &nbsp; &nbsp; &nbsp; <img src="thoughtworks-gif_dribbble.gif" width="160"></h1>
 
 <h3 align="center"> Passionate Software Engineer and MEAN & MERN Enthusiastic.</h3><br>
 <!-- <img align="right" alt="Coding" width="350" src="thoughtworks-gif_dribbble.gif"> -->
@@ -70,7 +70,7 @@ I'm learning the MERN stack in order to advance my skills in the field of cuttin
 -->
 
 <br/>
-<p>
+<p align="center">
 	<a href="https://github.com/iamabdullahrafique">
 		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamabdullahrafique&layout=compact&langs_count=8&theme=algolia"/>
 	</a>
