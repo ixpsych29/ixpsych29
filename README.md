@@ -6,8 +6,8 @@
 
 <div align="center" width="100%">
 
-I'm a current Software Engineering undergraduate student looking for an opportunity to put my skills to good use and make a difference. My experience covers web development and full-stack web development in Java, JavaScript, HTML, CSS, and Angular Js.
-I'm learning the Mean/Mern stack in order to advance my skills in the field of cutting-edge technology. I'm always looking for new ways to improve myself.  I'm here to do Full-Stack Web development for you on your business. 
+I'm a current Software Engineering undergraduate student looking for an opportunity to put my skills to good use and make a difference. My experience covers web development and full-stack web development in Java, JavaScript, HTML, CSS, and React Js.
+I'm learning the MERN stack in order to advance my skills in the field of cutting-edge technology. I'm always looking for new ways to improve myself.  I'm here to do Full-Stack Web development for you on your business. 
 
 [![Linkedin Badge](https://img.shields.io/badge/Abdullah-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/iamabdullahrafique/)
 [![Gmail Badge](https://img.shields.io/badge/abdullahbinrafique945@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:abdullahbinrafique945@gmail.com)
@@ -25,13 +25,14 @@ I'm learning the Mean/Mern stack in order to advance my skills in the field of c
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![ReactJs](https://img.shields.io/badge/-Reactjs-05122A?style=flat&logo=Angular&logoColor=a6120d)&nbsp;
+![ReactJs](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=61DBFB)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=TailwindCSS&logoColor=#06B6D4)&nbsp;
 
 
 
@@ -57,6 +58,7 @@ I'm learning the Mean/Mern stack in order to advance my skills in the field of c
 
 ## My Statistics
 
+<!--
 <br/>
 <p align="left">
   <a href="https://abhigyantrips.dev/">
@@ -65,6 +67,15 @@ I'm learning the Mean/Mern stack in order to advance my skills in the field of c
   </a>
 </p>
 <br>
+-->
+
+<br/>
+<p align="center">
+	<a href="https://github.com/iamhuraira">
+		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamhuraira&layout=compact&langs_count=8&theme=algolia"/>
+	</a>
+	<img width="60%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iamhuraira&show_icons=true&locale=en&layout=demo&theme=algolia" />
+</p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamabdullahrafique&theme=chartreuse-dark&hide_border=true" " alt="iamabdullahrafique"/></p>
 
 
