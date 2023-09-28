@@ -9,7 +9,7 @@
 I'm a current Software Engineering undergraduate student looking for an opportunity to put my skills to good use and make a difference. My experience covers web development and full-stack web development in Java, JavaScript, HTML, CSS, and React Js.
 I'm learning the MERN stack in order to advance my skills in the field of cutting-edge technology. I'm always looking for new ways to improve myself.  I'm here to do Full-Stack Web development for you on your business. 
 
-[![Linkedin Badge](https://img.shields.io/badge/Abdullah-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/iamabdullahrafique/)
+[![Linkedin Badge](https://img.shields.io/badge/Abdullah-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/ixpsych29/)
 [![Gmail Badge](https://img.shields.io/badge/abdullahbinrafique945@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:abdullahbinrafique945@gmail.com)
 ![Profile views](https://komarev.com/ghpvc/?username=iamabdullahrafique&label=PROFILE+VIEWS&style=plastic&color=blue)
 
@@ -62,8 +62,8 @@ I'm learning the MERN stack in order to advance my skills in the field of cuttin
 <br/>
 <p align="left">
   <a href="https://abhigyantrips.dev/">
-  <img width = "49%"  src="https://github-readme-stats.vercel.app/api?username=iamabdullahrafique&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-    <img width = "49%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamabdullahrafique&theme=chartreuse-dark&hide_border=true" />
+  <img width = "49%"  src="https://github-readme-stats.vercel.app/api?username=ixpsych29e&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+    <img width = "49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ixpsych29&theme=chartreuse-dark&hide_border=true" />
   </a>
 </p>
 <br>
@@ -72,12 +72,12 @@ I'm learning the MERN stack in order to advance my skills in the field of cuttin
 <br/>
 <p align="center">
 	<a href="https://github.com/iamabdullahrafique">
-		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamabdullahrafique&layout=compact&langs_count=8&theme=algolia"/>
+		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ixpsych29&layout=compact&langs_count=8&theme=algolia"/>
 	</a>
-	<img width="60%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iamabdullahrafique&show_icons=true&locale=en&layout=demo&theme=algolia" />
+	<img width="60%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ixpsych29&show_icons=true&locale=en&layout=demo&theme=algolia" />
 </p>
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamabdullahrafique&theme=chartreuse-dark&hide_border=true" " alt="iamabdullahrafique"/></p> -->
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ixpsych29&theme=chartreuse-dark&hide_border=true" " alt="iamabdullahrafique"/></p> -->
 
 
 <!-- 
