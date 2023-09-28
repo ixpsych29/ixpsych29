@@ -6,12 +6,12 @@
 
 <div align="center" width="100%">
 
-I'm a current Software Engineering undergraduate student looking for an opportunity to put my skills to good use and make a difference. My experience covers web development and full-stack web development in Java, JavaScript, HTML, CSS, and React Js.
+I'm a current Software Engineering undergraduate student looking for an opportunity to put my skills to good use and make a difference. My experience covers web development and full-stack web development in Java, JavaScript, HTML, CSS, and React.Js.
 I'm learning the MERN stack in order to advance my skills in the field of cutting-edge technology. I'm always looking for new ways to improve myself.  I'm here to do Full-Stack Web development for you on your business. 
 
 [![Linkedin Badge](https://img.shields.io/badge/Abdullah-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/ixpsych29/)
 [![Gmail Badge](https://img.shields.io/badge/abdullahbinrafique945@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:abdullahbinrafique945@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=iamabdullahrafique&label=PROFILE+VIEWS&style=plastic&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=ixpsych29&label=PROFILE+VIEWS&style=plastic&color=blue)
 
 
 ### 🛠 &nbsp;Tech Stack
