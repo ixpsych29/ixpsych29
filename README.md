@@ -19,7 +19,13 @@ I'm learning the MERN stack in order to advance my skills in the field of cuttin
 <a href="https://dev.to/ixpsych29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ixpsych29" height="30" width="40" /></a>
 <a href="https://twitter.com/ixpsych29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ixpsych29" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ixpsych29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ixpsych29" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18925557" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18925557" height="30" width="40" /></a>
+<a href="https://codesandbox.com/ixpsych29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ixpsych29" height="30" width="40" /></a>
+<a href="https://instagram.com/anti_venom_phakki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anti_venom_phakki" height="30" width="40" /></a>
 <a href="https://medium.com/@itz_psych_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@itz_psych_" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ixpsych29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ixpsych29" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ixpsych29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ixpsych29" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ixpsych29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ixpsych29" height="30" width="40" /></a>
 </p>
 
 <br/>
