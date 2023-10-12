@@ -13,6 +13,16 @@ I'm learning the MERN stack in order to advance my skills in the field of cuttin
 [![Gmail Badge](https://img.shields.io/badge/abdullahbinrafique945@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:abdullahbinrafique945@gmail.com)
 ![Profile views](https://komarev.com/ghpvc/?username=ixpsych29&label=PROFILE+VIEWS&style=plastic&color=blue)
 
+<!-- connect with me -->
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://dev.to/ixpsych29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ixpsych29" height="30" width="40" /></a>
+<a href="https://twitter.com/ixpsych29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ixpsych29" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ixpsych29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ixpsych29" height="30" width="40" /></a>
+<a href="https://medium.com/@itz_psych_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@itz_psych_" height="30" width="40" /></a>
+</p>
+
 
 ### 🛠 &nbsp;Tech Stack
 <!-- 
@@ -70,13 +80,7 @@ I'm learning the MERN stack in order to advance my skills in the field of cuttin
 -->
 
 <br/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/ixpsych29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ixpsych29" height="30" width="40" /></a>
-<a href="https://twitter.com/ixpsych29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ixpsych29" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ixpsych29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ixpsych29" height="30" width="40" /></a>
-<a href="https://medium.com/@itz_psych_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@itz_psych_" height="30" width="40" /></a>
-</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ixpsych29&show_icons=true&locale=en&layout=compact" alt="ixpsych29" /></p>
 
