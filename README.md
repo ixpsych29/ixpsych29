@@ -22,6 +22,7 @@ I'm learning the MERN stack in order to advance my skills in the field of cuttin
 <a href="https://medium.com/@itz_psych_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@itz_psych_" height="30" width="40" /></a>
 </p>
 
+<br/>
 
 ### 🛠 &nbsp;Tech Stack
 <!-- 
