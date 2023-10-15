@@ -15,10 +15,7 @@ I'm learning the MERN stack in order to advance my skills in the field of cuttin
 
 
 ### 🛠 &nbsp;Tech Stack
-<!-- 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; -->
-
-
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -34,9 +31,14 @@ I'm learning the MERN stack in order to advance my skills in the field of cuttin
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=TailwindCSS&logoColor=#06B6D4)&nbsp;
 
+
+
+
+
+
 <br/>
 <!-- connect with me -->
-### 🔗 &nbsp; Connect with me
+### 🤙🏼 &nbsp;Connect With Me
 <p align="center">
 <a href="https://dev.to/ixpsych29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ixpsych29" height="30" width="40" /></a>
 <a href="https://twitter.com/ixpsych29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ixpsych29" height="30" width="40" /></a>
