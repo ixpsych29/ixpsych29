@@ -39,7 +39,7 @@ I'm learning the MERN stack in order to advance my skills in the field of cuttin
 <!-- connect with me -->
 <h4 align="center">🤙🏼 &nbsp;Connect With Me </h4>
 <p align="center">
-<a href="https://dev.to/ixpsych29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ixpsych29" height="30" width="40" /></a>
+<a href="https://dev.to/ixpsych29" target="blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ficonape.com%2Fwp-content%2Fpng_logo_vector%2Fcib-dev-to.png&tbnid=9VDUN99eJLbbjM&vet=12ahUKEwiurtTz-PeBAxV_nCcCHeB8BIYQMygGegQIARB6..i&imgrefurl=https%3A%2F%2Ficonape.com%2Fcib-dev-to-logo-icon-svg-png.html&docid=_jtwIBCcxE1byM&w=500&h=500&q=dev%20to%20icon&ved=2ahUKEwiurtTz-PeBAxV_nCcCHeB8BIYQMygGegQIARB6" alt="ixpsych29" height="30" width="40" /></a>
 <a href="https://twitter.com/ixpsych29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ixpsych29" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ixpsych29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ixpsych29" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18925557" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18925557" height="30" width="40" /></a>
