@@ -38,7 +38,7 @@ I'm learning the MERN stack in order to advance my skills in the field of cuttin
 
 <br/>
 <!-- connect with me -->
-### 🤙🏼 &nbsp;Connect With Me
+<h3 align="center">🤙🏼 &nbsp;Connect With Me </h3>
 <p align="center">
 <a href="https://dev.to/ixpsych29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ixpsych29" height="30" width="40" /></a>
 <a href="https://twitter.com/ixpsych29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ixpsych29" height="30" width="40" /></a>
