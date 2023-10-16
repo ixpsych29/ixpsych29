@@ -7,7 +7,7 @@
 <!-- ![programmer](https://github.com/ixpsych29/ixpsych29/assets/95847707/a89bd047-96e0-4cd7-80bc-1d74c2736462) -->
 
 <p align="center">
-  <img src="https://github.com/ixpsych29/ixpsych29/assets/95847707/a89bd047-96e0-4cd7-80bc-1d74c2736462" alt="programmer">
+  <img src="https://github.com/ixpsych29/ixpsych29/assets/95847707/a89bd047-96e0-4cd7-80bc-1d74c2736462" width="700px" height="auto" alt="programmer">
 </p>
 
 
