@@ -3,9 +3,13 @@
 
 <h3 align="center"> Passionate Software Engineer and MEAN & MERN Enthusiastic.</h3><br>
 <!-- <img align="right" alt="Coding" width="350" src="thoughtworks-gif_dribbble.gif"> -->
-<div style="align-items:center">
-![programmer](https://github.com/ixpsych29/ixpsych29/assets/95847707/a89bd047-96e0-4cd7-80bc-1d74c2736462)
-</div>
+
+<!-- ![programmer](https://github.com/ixpsych29/ixpsych29/assets/95847707/a89bd047-96e0-4cd7-80bc-1d74c2736462) -->
+
+<p align="center">
+  <img src="https://github.com/ixpsych29/ixpsych29/assets/95847707/a89bd047-96e0-4cd7-80bc-1d74c2736462" alt="programmer">
+</p>
+
 
 <div align="center" width="100%">
 
