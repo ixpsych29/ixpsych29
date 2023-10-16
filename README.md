@@ -179,6 +179,7 @@ I'm learning the MERN stack in order to advance my skills in the field of cuttin
 <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
 <br>
 <p align='center'>
-<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<img src="https://github.com/ixpsych29/ixpsych29/assets/95847707/aec7c479-9bdb-4c57-8e62-5fb4b32f5b40" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+
 <br>
 <!-- <img align="center" src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%"> -->
