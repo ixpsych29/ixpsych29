@@ -97,13 +97,16 @@ I'm learning the MERN stack in order to advance my skills in the field of cuttin
 <br/>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ixpsych29&show_icons=true&locale=en&layout=compact" alt="ixpsych29" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ixpsych29&show_icons=true&locale=en&layout=compact" alt="ixpsych29" /></p> -->
+!Muhammad Abdullah's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ixpsych29&layout=compact&theme=radical)
+
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ixpsych29&show_icons=true&locale=en" alt="ixpsych29" /></p> -->
 ![Muhammad Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ixpsych29&show_icons=true&theme=radical)
 
+![Muhammad Abdullah's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ixpsych29&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ixpsych29&" alt="ixpsych29" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ixpsych29&" alt="ixpsych29" /></p>-->
 
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ixpsych29&theme=chartreuse-dark&hide_border=true" " alt="ixpsych29"/></p> -->
