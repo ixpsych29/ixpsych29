@@ -98,7 +98,7 @@ I'm learning the MERN stack in order to advance my skills in the field of cuttin
 
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ixpsych29&show_icons=true&locale=en&layout=compact" alt="ixpsych29" /></p> -->
-!Muhammad Abdullah's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ixpsych29&layout=compact&theme=radical)
+![Muhammad Abdullah's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ixpsych29&layout=compact&theme=radical)
 
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ixpsych29&show_icons=true&locale=en" alt="ixpsych29" /></p> -->
