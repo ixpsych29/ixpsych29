@@ -113,7 +113,7 @@ I'm learning the MERN stack in order to advance my skills in the field of cuttin
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamhuraira)](https://github.com/iamhuraira/github-readme-stats) -->
 
 ## 3D Graph
-![Muhammad Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Muhammad Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ixpsych29&show_icons=true&theme=radical)
 
 ## Contribution Graph
 ![Contribution Graph](./profile-3d-contrib/profile-gitblock.svg)
