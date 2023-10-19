@@ -1,5 +1,5 @@
 <!-- <img align="center" alt="Coding" height="200" width="1600" src="animation-software-header-wide.gif"> -->
-<img src="https://github.com/ixpsych29/ixpsych29/assets/95847707/a40a1065-f02b-42a4-963e-024b44da18a9" width="150px" height="auto"><h1 align="center">Hello 👋 , I'm Abdullah Ibn Rafique &nbsp; <img src="https://github.com/ixpsych29/ixpsych29/assets/95847707/2395741d-d021-45ee-937e-2c08e32c371b" width="150px" height="auto">
+<img src="https://github.com/ixpsych29/ixpsych29/assets/95847707/a40a1065-f02b-42a4-963e-024b44da18a9" width="100px" height="auto"><h1>Hello 👋 , I'm Abdullah Ibn Rafique &nbsp; <img src="https://github.com/ixpsych29/ixpsych29/assets/95847707/2395741d-d021-45ee-937e-2c08e32c371b" width="100px" height="auto">
 <!-- <img src="https://github.com/ixpsych29/ixpsych29/assets/95847707/4de1f99d-d594-48ae-8aed-f3642e389ae8" width="200px" height="auto"> -->
 
 
