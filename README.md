@@ -1,5 +1,8 @@
 <!-- <img align="center" alt="Coding" height="200" width="1600" src="animation-software-header-wide.gif"> -->
-<h1 align="center">Hello 👋 , I'm Abdullah Ibn Rafique &nbsp; <img src="https://github.com/ixpsych29/ixpsych29/assets/95847707/4de1f99d-d594-48ae-8aed-f3642e389ae8" width="200px" height="auto">
+<h1 align="center">Hello 👋 , I'm Abdullah Ibn Rafique &nbsp; <img src="https://github.com/ixpsych29/ixpsych29/assets/95847707/a402ef3e-f629-46c7-8c73-144ba347a3b3" width="200px" height="auto">
+<!-- <img src="https://github.com/ixpsych29/ixpsych29/assets/95847707/4de1f99d-d594-48ae-8aed-f3642e389ae8" width="200px" height="auto"> -->
+
+
 
 <!--&nbsp; &nbsp;  <img src="programmer.gif" width="160"></h1> -->
 
