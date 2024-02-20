@@ -6,7 +6,7 @@
 
 
 <!--&nbsp; &nbsp;  <img src="programmer.gif" width="160"></h1> -->
-<h3 align="center">Stand With <img src="https://github.com/ixpsych29/ixpsych29/assets/95847707/640b9754-a87a-4711-872d-3f2afd95fd69" width="30px" height="auto"></h3><br>
+<h3 align="center">Stand With &nbsp; <img src="https://github.com/ixpsych29/ixpsych29/assets/95847707/640b9754-a87a-4711-872d-3f2afd95fd69" width="40px" height="auto"></h3><br>
 <h3 align="center"> Passionate Software Engineer and MEAN & MERN Enthusiastic.</h3><br>
 <!-- <img align="right" alt="Coding" width="350" src="thoughtworks-gif_dribbble.gif"> -->
 
